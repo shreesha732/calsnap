@@ -1,0 +1,8 @@
+{
+  "name": "NutraVision AI",
+  "description": "Expert nutrition analysis from food images using Gemini AI. Get instant calorie counts, macronutrients, and health scores.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
